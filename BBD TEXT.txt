@@ -1,0 +1,73 @@
+INSCRIPTION : 
+
+id_insc
+nom
+prenom
+pseudo
+adresse
+cp
+age
+mot de passe
+verifmdp
+email
+verifemail
+
+CONNEXION : 
+
+id_connex
+pseudo
+mot de passe
+
+ARTICLE 
+
+id_article
+id_connex
+nom
+contenue
+date_publication
+note
+vue
+prix
+
+
+DISPONIBLE
+
+id_dispo
+diponible
+
+Panier
+
+id_panier
+id_connex
+id_article
+prix_total
+
+ADMINISTRATEUR :
+
+id_admin 
+id_connex
+id_insc
+nom
+prenom
+pseudo
+mot de passe
+
+coter admin : 
+
+faire une page qui crée un bouton ajouter supprimer modifier un utlisateur 
+faire une page qui crée un bouton ajouter supprimer modifier un administrateur
+faire une page qui crée un bouton qui ajoute le une categorie si besoin est 
+faire une page qui ajoute des articles pour les utilisateurs
+
+coter utilisateur
+
+faire un page inscrption
+faire une page connexion
+faire une page conctatez nous
+faire un plan du site
+faire une page d'accueil avec un collapse des derniers promotions
+"     "   "    "         "    les articles les plus vues
+faire une page de l'article
+faire un descriptif de chaque article
+faire une page pour chaque categorie
+faire un filtre pour recherché les article en fonction du prix , modèle, 
